@@ -1,5 +1,5 @@
 Google Web Toolkit 0.0.0
-(git revision fatal: Needed a single revision)
+(git revision 6e2912af)
 Copyright (c) Google, Inc. 2009.  All rights reserved.
 Visit Google Code (http://code.google.com/webtoolkit/).
 
